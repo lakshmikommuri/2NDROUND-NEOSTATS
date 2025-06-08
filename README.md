@@ -38,9 +38,9 @@ README.md->Project documentation
 
 **Clonning**
 
-git clone https://github.com/your-username/job-assignment-chatbot.git
+git clone https://github.com/lakshmikommuri/2NDROUND-NEOSTATS
 
-cd job-assignment-chatbot
+cd 2NDROUND-NEOSTATS
 
 **Requirements**
 
